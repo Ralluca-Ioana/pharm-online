@@ -1,2 +1,2 @@
 # pharm-online
-[Accesati link-ul](https://www.ralucabruma.com/farmacie/)
+[Link catre site](https://www.ralucabruma.com/farmacie/)
